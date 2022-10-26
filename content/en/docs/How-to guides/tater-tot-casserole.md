@@ -2,7 +2,7 @@
 title: "Tater Tot Casserole"
 weight: 3
 description: >
-  A recipe for tater tot casserole.
+  A recipe for tater tot casserole. For an overview of what how-to guides are in Diátaxis, see the [How-To Guides page](/docs/how-to-guides/).
 ---
 
 ![Tater Tot Casserole](/casserole.png 'Tater Tot Casserole')
@@ -20,7 +20,7 @@ description: >
 
 ## Instructions
 
-1. Preheat oven to 375.
+1. Preheat oven to 375 degrees F.
 1. Bake tater tots for about 10-15 minutes before putting on top of casserole.
 1. Meanwhile, brown sausuage.
 1. Add peppers and onion to sausage to saute.
@@ -30,4 +30,6 @@ description: >
 1. Pour milk and egg mixture over cheese. *At this point, the casserole could be refrigerated overnight.*
 1. Top casserole with tater tots.
 1. Sprinkle 1/2 cup of cheese over tater tots.
-1. Bake for 45 minutes to 1 hour, until bubbly.
+1. Bake for 45 minutes to 1 hour.
+
+*Recipe adapted from [AllRecipes](https://www.allrecipes.com/recipe/23912/tater-tot-casserole-i/).*

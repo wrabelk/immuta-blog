@@ -22,3 +22,15 @@ How do I use a food processor?
 Splunk documentation actually uses learning objectives when they write their docs.
 
 
+What does it actually mean to soften butter?
+https://www.landolakes.com/expert-advice/how-to-soften-butter/
+https://www.foodnetwork.com/fn-dish/recipes/2019/11/how-to-soften-butter
+How do I roll out dough?
+​​https://www.youtube.com/watch?v=zxXYWQ_XMqw
+How do I use a food processor?
+https://www.americastestkitchen.com/kids/recipes/how-to-use-a-food-processor (explanatory)
+
+How do I cut up cinnamon rolls without smashing them?
+- https://www.kingarthurbaking.com/blog/2018/11/21/simple-cinnamon-roll-trick
+
+

@@ -2,7 +2,7 @@
 title: "Banana Bread"
 weight: 4
 description: >
-  A recipe for banana bread.
+  A recipe for banana bread. For an overview of what how-to guides are in Diátaxis, see the [How-To Guides page](/docs/how-to-guides/).
 ---
 
 ![Banana Bread](/banana-bread.png 'Banana Bread')
@@ -24,7 +24,7 @@ description: >
 
 ## Instructions
 
-1. Preheat oven to 350.
+1. Preheat oven to 350 F.
 1. Combine melted butter and sugar.
 1. Add eggs and vanilla and mix well.
 1. Combine flour, baking soda, baking powder, salt, and nutmeg.
@@ -32,3 +32,23 @@ description: >
 1. Fold in sour cream, bananas, and walnuts.
 1. Bake in greased pan for 50 minutes to 1 hour.
 1. Cool in pan for 10 minutes before removing from pan.
+
+## What's Next?
+
+As knowledge expands, readers' purpose for reading (and interest in the subject) changes. 
+
+Now that you've seen the how-to guide for making banana bread, maybe you realize you need to understand how to properly melt butter or fold ingredients into a batter.
+
+Maybe you want to understand more specific details about the ingredients.
+
+Maybe you're curious about other varieties of banana bread and how they've transformed over time.
+
+Or, potentially, you want to know how to make poptarts instead.
+
+Each of these needs is met in a different mode of writing in Diátaxis:
+
+* How-to guide
+* reference guide
+* tutorial
+* explanatory guide
+

@@ -15,3 +15,6 @@ The only thing a reference guide should do is describe in detail (concisely) in 
 These guides provide readers with certainty. 
 
 To extend my poptart analogy, the reference material could be a conversion guide, definitions of mincing vs dicing, sifting vs scooping,definitions of equipment needed.
+
+Example
+I want to understand what I’m consuming — reference guide/article
