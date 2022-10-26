@@ -1,9 +1,9 @@
 ---
-title: "Reference"
-linkTitle: "Reference"
+title: "Reference Guides"
+linkTitle: "Reference Guides"
 weight: 9
 description: >
-  Low level reference docs for your project.
+  Reference guides are consulted, not read.
 ---
 
 {{% pageinfo %}}

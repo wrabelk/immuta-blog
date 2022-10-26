@@ -1,11 +1,9 @@
 ---
-categories: ["Examples", "Placeholders"]
-tags: ["test","docs"] 
-title: "Getting Started"
-linkTitle: "Getting Started"
+title: "How-To Guides"
+linkTitle: "How-To Guides"
 weight: 2
 description: >
-  What does your user need to know to try your project?
+  What goal does the reader want to achieve?
 ---
 
 {{% pageinfo %}}
