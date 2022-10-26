@@ -6,30 +6,11 @@ description: >
   What goal does the reader want to achieve?
 ---
 
-{{% pageinfo %}}
-This is a placeholder page that shows you how to use this template site.
-{{% /pageinfo %}}
+![How-To Diagram](/how-to.png 'How-To Diagram')
 
-Information in this section helps your user try your project themselves.
+How-to guides are easily confused with tutorials (I’ve conflated and confused them for a few years now): both contain steps that lead the reader through to a specific end. 
 
-* What do your users need to do to start using your project? This could include downloading/installation instructions, including any prerequisites or system requirements.
+The difference between a how-to guide and a tutorial, though, is that how-to guides are focused on solving a specific business problem or achieving a business goal. How-to guides focus on the work a reader needs to complete and expect a basic level of competence. If you don’t have that, you need to consult a tutorial before proceeding).
 
-* Introductory “Hello World” example, if appropriate. More complex tutorials should live in the Tutorials section.
+For example, I want to make homemade poptarts to share with the Columbus office. The recipe is a how-to guide. It expects that I know how to soften butter, that I can roll out dough, and that I know how to use a food processor. It’s not concerned about teaching me basic skills. It’s concerned with guiding me through to achieve my goal or task: to make poptarts. 
 
-Consider using the headings below for your getting started page. You can delete any that are not applicable to your project.
-
-## Prerequisites
-
-Are there any system requirements for using your project? What languages are supported (if any)? Do users need to already have any software or tools installed?
-
-## Installation
-
-Where can your user find your project code? How can they install it (binaries, installable package, build from source)? Are there multiple options/versions they can install and how should they choose the right one for them?
-
-## Setup
-
-Is there any initial setup users need to do after installation to try your project?
-
-## Try it out!
-
-Can your users test their installation, for example by running a command or deploying a Hello World example?

@@ -5,15 +5,9 @@ description: >
   A recipe for homemade poptarts.
 ---
 
-{{% pageinfo %}}
-A how-to guide focuses on helping the reader achieve a specific business goal. For example,
-A recipe for making poptarts.
-Immuta equivalent: 
-{{% /pageinfo %}}
+![Poptarts](/poptarts.png 'Poptarts')
 
 *Note: I feel comfortable putting this example out here because Stella Parks herself posted her own recipe online a year ago here: https://www.thekitchn.com/stella-parks-homemade-pop-tarts-23265682*
-
-![Poptarts](/featured-background.png 'Poptarts')
 
 ## Ingredients
 

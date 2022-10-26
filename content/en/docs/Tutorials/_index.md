@@ -1,16 +1,24 @@
-
 ---
 title: "Tutorials"
 linkTitle: "Tutorials"
-weight: 8
+weight: 4
 date: 2017-01-04
 description: >
-  Show your user how to work through some end to end examples.
+  What skill does your reader want to learn?
 ---
 
-{{% pageinfo %}}
-This is a placeholder page that shows you how to use this template site.
-{{% /pageinfo %}}
+![Tutorial Diagram](/tutorial.png 'Tutorial Diagram')
 
-Tutorials are **complete worked examples** made up of **multiple tasks** that guide the user through a relatively simple but realistic scenario: building an application that uses some of your project’s features, for example. If you have already created some Examples for your project you can base Tutorials on them. This section is **optional**. However, remember that although you may not need this section at first, having tutorials can be useful to help your users engage with your example code, especially if there are aspects that need more explanation than you can easily provide in code comments.
+Tutorial is a term that we use pretty loosely currently in our docs. In our documentation, our tutorials have step-by-step instructions for using a feature.
+
+This approach isn’t actually a tutorial, though, not the way we use them. A tutorial should lead the reader through to learn a specific skill. Unlike how-to guides, it is learning-oriented, not business- or work-oriented. The purpose of a tutorial is to build readers’ competence with the product — we should teach for transfer, so they can then take those skills they learned and apply them to their own challenges and use cases.
+
+For example, before I can make home-made poptarts, there are basic competencies I need to have with pastry before I can begin.
+
+What does the recipe actually mean when it says to soften butter?
+How do I roll out dough?
+How do I use a food processor?
+
+Splunk documentation actually uses learning objectives when they write their docs.
+
 

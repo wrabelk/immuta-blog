@@ -1,14 +1,17 @@
 ---
 title: "Reference Guides"
 linkTitle: "Reference Guides"
-weight: 9
+weight: 3
 description: >
-  Reference guides are consulted, not read.
+  What information does your reader want to understand to achieve their business goal?
 ---
 
-{{% pageinfo %}}
-This is a placeholder page that shows you how to use this template site.
-{{% /pageinfo %}}
+![Reference Diagram](/reference.png 'Reference Diagram')
 
-If your project has an API, configuration, or other reference - anything that users need to look up that’s at an even lower level than a single task - put (or link to it) here. You can serve and link to generated reference docs created using Doxygen,
-Javadoc, or other doc generation tools by putting them in your `static/` directory. Find out more in [Adding static content](https://docsy.dev/docs/adding-content/content/#adding-static-content). For OpenAPI reference, Docsy also provides a [Swagger UI layout and shortcode](https://www.docsy.dev/docs/adding-content/shortcodes/#swaggerui) that renders [Swagger UI](https://swagger.io/tools/swagger-ui/) using any OpenAPI YAML or JSON file as source.
+Reference guides are technical descriptions of a product and are information-oriented. Like How-to guides, they empower readers to get their work done.
+
+The only thing a reference guide should do is describe in detail (concisely) in an organized way. It shouldn’t tell the reader how to do something or why. It just describes and defines the software or subject itself, including its behavior and the correct way to use it, but they don’t show readers how to perform tasks.
+
+These guides provide readers with certainty. 
+
+To extend my poptart analogy, the reference material could be a conversion guide, definitions of mincing vs dicing, sifting vs scooping,definitions of equipment needed.
