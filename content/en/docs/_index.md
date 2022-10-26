@@ -58,6 +58,4 @@ I need to learn how to cook — tutorial
 
 Much like when I was a kid reading choose your own adventure novels, what I wanted changed as the story unfolded. Sometimes I would go back and change the path — unlike in other novels where reading was linear — this wasn’t — it was recursive 
 
-![Diátaxis Diagram](/diataxis-diagram.png 'Diátaxis Diagram')
-
 ![Writer Flow Chart](/writers-flow-chart.png 'Writer Flow Chart')

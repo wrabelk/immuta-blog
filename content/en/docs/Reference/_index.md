@@ -3,7 +3,7 @@ title: "Reference Guides"
 linkTitle: "Reference Guides"
 weight: 3
 description: >
-  What information does your reader want to understand to achieve their business goal?
+  What information does your reader need to understand to achieve their business goal?
 ---
 
 ![Reference Diagram](/reference.png 'Reference Diagram')
