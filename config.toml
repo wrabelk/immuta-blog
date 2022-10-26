@@ -61,7 +61,7 @@ id = "UA-00000000-0"
 [languages]
 [languages.en]
 title = "Immuta Blog"
-description = "A site that illustrates the Diataxis framework"
+description = "A site that illustrates the Diátaxis framework"
 languageName ="English"
 
 [markup]
