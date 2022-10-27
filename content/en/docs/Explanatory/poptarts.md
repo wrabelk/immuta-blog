@@ -9,4 +9,4 @@ Did you know that Kellogg's PopTarts were orginally called Fruit Scones?
 
 This irreverent and oddly combative [explanatory content by Kellogg's PopTarts](https://www.poptarts.com/en_US/our-story.html) discusses the history of their business and how PopTarts transformed over time.
 
-![Kellogg's Poptarts](/kellogs.png 'Kellogg's Poptarts')
+![Kelloggs Poptarts](/kellogs.png 'Kellogs Poptarts')
