@@ -17,15 +17,15 @@ For our documentation team, the Diataxis Documentation Framework can ease some o
 
 ## What is Diátaxis?
 
-Diátaxis structures technical documentation around users’ needs and goals as they relate to a product. At its heart, Diátaxis reflects four phases of learning (or how people become experts in a craft) to overcome some of these challenges:
+[Diátaxis](https://diataxis.fr/) structures technical documentation around users’ needs and goals as they relate to a product. At its heart, Diátaxis reflects four phases of learning (or how people become experts in a craft) to overcome some of these challenges:
 
-* learning-oriented phase: We begin by learning. We learn a skill by *doing*, under the guidance of a teacher.
+* **learning-oriented phase:** We begin by learning. We learn a skill by *doing*, under the guidance of a teacher.
 
-* task-oriented phase: Next we want to put the skill to work.
+* **task-oriented phase**: Next we want to put the skill to work.
 
-* information-oriented phase: As soon as our work calls upon knowledge that we don’t already have, it requires us to consult technical reference.
+* **information-oriented phase**: As soon as our work calls upon knowledge that we don’t already have, it requires us to consult technical reference.
 
-* explanation-oriented phase: Finally, away from the work, we reflect on our practice and knowledge to understand the whole.
+* **explanation-oriented phase**: Finally, away from the work, we reflect on our practice and knowledge to understand the whole.
 
 From those four phases of learning, Diátaxis creates a map that divides documentation into four modes that correspond to each of the four phases of expertise above, each of which should be distinct from the others:
 
@@ -35,6 +35,7 @@ From those four phases of learning, Diátaxis creates a map that divides documen
 * Explanatory Guides (explanation-oriented)
 
 ![Diátaxis Diagram](/diataxis-diagram.png 'Diátaxis Diagram')
+*Diagram adapted from [diataxis.fr](https://diataxis.fr/).*
 
 The diagram above illustrates that documentation
 
