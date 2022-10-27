@@ -17,9 +17,7 @@ For our documentation team, the Diataxis Documentation Framework can ease some o
 
 ## What is Diátaxis?
 
-Diátaxis structures technical documentation around users’ needs and goals as they relate to a product. Our audience is diverse, their problems are complex and varying, and so how we write about a single concept needs to be written differently based on who those readers are, what their purpose is, and where they are in their phase of understanding our product.
-
-At its heart, Diátaxis reflects four phases of learning (or how people become experts in a craft) to overcome some of these challenges:
+Diátaxis structures technical documentation around users’ needs and goals as they relate to a product. At its heart, Diátaxis reflects four phases of learning (or how people become experts in a craft) to overcome some of these challenges:
 
 * learning-oriented phase: We begin by learning. We learn a skill by *doing*, under the guidance of a teacher.
 
@@ -43,7 +41,11 @@ The diagram above illustrates that documentation
 * describes specific actions the reader should take or contains theoretical knowledge (Practical Steps vs Article)
 * is either serves readers' application or acquisition of knowledge (Enhances Work vs Enhances Learning)
 
-Learning is messy and recursive. Much like when I was a kid reading choose your own adventure novels (if you're too young to remember those, maybe you remember the *Black Mirror: Bandersnatch* hype from a few years ago), what I wanted from the story changed as it unfolded. This framework brings structure to chaos and supports our readers’ needs and allows them to move nonlinearly as their needs  and understanding change. 
+## Helping Readers
+
+At Immuta, our audience is diverse and their problems are complex and varying, so how we write about a single concept needs to be written differently based on who those readers are, what their goals are, and where they are in their phase of understanding our product.
+
+Furhthermore, learning is messy and recursive. Much like when I was a kid reading choose your own adventure novels (if you're too young to remember those, maybe you remember the *Black Mirror: Bandersnatch* hype from a few years ago), what I wanted from the story changed as it unfolded. This framework brings structure to chaos and supports our readers’ needs and allows them to move nonlinearly as their needs and understanding change. 
 
 ## Helping Writers
 
