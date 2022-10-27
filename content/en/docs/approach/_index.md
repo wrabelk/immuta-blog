@@ -11,3 +11,10 @@ What mode is this? Does it belong here?
 What could we change on this specific page to apply this framework?
 
 This will help us determine whether or not we’re going in the right direction as we move forward. And, if we’re not, we can simply pivot and make changes that get us moving in the right direction again.
+
+Why does this matter to you?
+
+Writing is imperative for all teams, so I wanted to share an approach to writing my team has adopted to make some of our decisions easier, to more effectively serve our readers’ needs no matter their persona or experience.
+
+Perhaps you can consider frameworks for your own team or for yourself.
+
