@@ -4,7 +4,7 @@ linkTitle: Why Should Other Teams Care?
 weight: 6
 ---
 
-Writing is imperative for all teams, so I wanted to share an approach to writing my team is consdiering to make some of our decisions easier, to more effectively serve our readers’ needs no matter their persona or experience.
+Writing is imperative for all teams, so I wanted to share an approach to writing my team is considering to make some of our decisions easier, to more effectively serve our readers’ needs no matter their persona or experience.
 
 Even if you're not writing technical documentation consistently, maybe you'll consider frameworks for your team or for yourself. 
 

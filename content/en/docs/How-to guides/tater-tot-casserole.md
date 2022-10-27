@@ -22,7 +22,7 @@ description: >
 
 1. Preheat oven to 375 degrees F.
 1. Bake tater tots for about 10-15 minutes before putting on top of casserole.
-1. Meanwhile, brown sausuage.
+1. Meanwhile, brown sausage.
 1. Add peppers and onion to sausage to saute.
 1. Drain sausage mixture and spread evenly in 9x13 inch pan.
 1. Spread 2 1/2 cups cheese over sausage.

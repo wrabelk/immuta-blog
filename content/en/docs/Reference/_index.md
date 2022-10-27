@@ -28,6 +28,6 @@ These reference guides would
 In our documentation, a reference guide would be something like
 
 * API reference guide.
-* architecutre diagrams and integration descriptions.
+* architecture diagrams and integration descriptions.
 
 Like the poptart example, these guides enhance our readers' work, and they are information-oriented. 

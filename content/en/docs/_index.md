@@ -46,15 +46,15 @@ The diagram above illustrates that documentation
 
 At Immuta, our audience is diverse and their problems are complex and varying, so how we write about a single concept needs to be written differently based on who those readers are, what their goals are, and where they are in their phase of understanding our product.
 
-Furhthermore, learning is messy and recursive. Much like when I was a kid reading choose your own adventure novels (if you're too young to remember those, maybe you remember the *Black Mirror: Bandersnatch* hype from a few years ago), what I wanted from the story changed as it unfolded. This framework brings structure to chaos and supports our readers’ needs and allows them to move nonlinearly as their needs and understanding change. 
+Furthermore, learning is messy and recursive. Much like when I was a kid reading choose your own adventure novels (if you're too young to remember those, maybe you remember the *Black Mirror: Bandersnatch* hype from a few years ago), what I wanted from the story changed as it unfolded. This framework brings structure to chaos and supports our readers’ needs and allows them to move nonlinearly as their needs and understanding change. 
 
 ## Helping Writers
 
-This structure helps orient our readers in our docs, but it also helps our writers. Instead of agonizing over where something should go, we incoporate this framework into our processes by asking ourselves a few questions before we begin writing. I've illustrated this thought process in the diagram below:
+This structure helps orient our readers in our docs, but it also helps our writers. Instead of agonizing over where something should go, we incorporate this framework into our processes by asking ourselves a few questions before we begin writing. I've illustrated this thought process in the diagram below:
 
 ![Writer Flow Chart](/writers-flow-chart.png 'Writer Flow Chart')
 
-Largley, as writers we need to identify
+Largely, as writers we need to identify
 
 1. who the audience is
 1. whether the document should serve their learning or their business goals

@@ -9,19 +9,19 @@ description: >
 
 ![Explanatory Diagram](/explanatory.png 'Explanatory Diagram')
 
-Explanatory guides broaden readers’ understanding of a topic, which makes them learning-oriented. Theses guides empower readers to acquire knowledge, not apply it through a series of pratical steps.
+Explanatory guides broaden readers’ understanding of a topic, which makes them learning-oriented. These guides empower readers to acquire knowledge, not apply it through a series of practical steps.
 
-Instead, these guides are conversational. They explore other possibilities, explain context, and consider the subject from different angles. Unlike the other modes of documentation, expanatory guides don't directly impact a readers' work or practice. Instead of helping readers learn how to *do* a craft, they help them *understand* the craft.
+Instead, these guides are conversational. They explore other possibilities, explain context, and consider the subject from different angles. Unlike the other modes of documentation, explanatory guides don't directly impact a readers' work or practice. Instead of helping readers learn how to *do* a craft, they help them *understand* the craft.
 
 ## General Example: Historical and Cultural Context
 
-To extend the poptarts analaogy, an example of an explanatory guide about poptarts could discuss the history of poptarts in America, how they differ in other countries, or how they have changed over time and why.
+To extend the poptarts analogy, an example of an explanatory guide about poptarts could discuss the history of poptarts in America, how they differ in other countries, or how they have changed over time and why.
 
 This explanatory guide
 
 * isn't concerned with what I'm doing as a reader or what goals I want to achieve. 
 * broadens my understanding of poptarts.
-* isn't written in a series of practical steps. I'm not applying my understanding; I'm just acquring knowledge.
+* isn't written in a series of practical steps. I'm not applying my understanding; I'm just acquirng knowledge.
 
 ### Immuta Documentation Examples
 

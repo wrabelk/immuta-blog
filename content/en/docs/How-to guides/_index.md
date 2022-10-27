@@ -17,7 +17,7 @@ The difference between a how-to guide and a tutorial is that how-to guides are f
 If I want to make homemade poptarts to share with the office, the recipe is the how-to guide:
 
 * it helps me achieve a specific goal: to make poptarts.
-* it expects that I have a certain level of competence -- that I know how to soften butter, that I can roll out dough, and that I know how to use a food processor. It’s not concerned with teaching me skills to imporove my baking ability.
+* it expects that I have a certain level of competence -- that I know how to soften butter, that I can roll out dough, and that I know how to use a food processor. It’s not concerned with teaching me skills to improve my baking ability.
 * it's written in a series of practical steps. I actually *apply* the content; I don't just gain knowledge.
 
 ### Immuta Documentation Examples
