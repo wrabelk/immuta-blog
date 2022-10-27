@@ -35,7 +35,7 @@ description: >
 
 ## What's Next?
 
-As knowledge expands, readers' purpose for reading (and interest in the subject) changes. 
+As our knowledge expands, our purpose for reading (and interest in the subject) changes. 
 
 Now that you've seen the how-to guide for making banana bread, maybe you realize you need to understand how to properly melt butter or fold ingredients into a batter.
 
@@ -43,12 +43,12 @@ Maybe you want to understand more specific details about the ingredients.
 
 Maybe you're curious about other varieties of banana bread and how they've transformed over time.
 
-Or, potentially, you want to know how to make poptarts instead.
+Or, potentially, maybe you want to know how to make poptarts instead.
 
-Each of these needs is met in a different mode of writing in Diátaxis:
+Each of these needs is met by a different mode of writing in the Diátaxis framework. Navigate to one of these sections to learn more.
 
-* How-to guide
-* reference guide
-* tutorial
-* explanatory guide
+* [How-To Guides](/docs/how-to-guides/)
+* [Reference Guides](/docs/reference/)
+* [Tutorials](/docs/tutorials/)
+* [Explanatory Guides](/docs/explanatory/)
 

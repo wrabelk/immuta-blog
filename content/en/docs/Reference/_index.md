@@ -8,13 +8,26 @@ description: >
 
 ![Reference Diagram](/reference.png 'Reference Diagram')
 
-Reference guides are technical descriptions of a product and are information-oriented. Like How-to guides, they empower readers to get their work done.
+Reference guides are technical descriptions of a product. Like how-to guides, they empower readers to get their work done, and, like explanatory guides, they are information-oriented. Instead of being written as step-by-step instructions, they're written as articles.
 
-The only thing a reference guide should do is describe in detail (concisely) in an organized way. It shouldn’t tell the reader how to do something or why. It just describes and defines the software or subject itself, including its behavior and the correct way to use it, but they don’t show readers how to perform tasks.
+A reference guide only describes its subject in detail (concisely). It doesn't tell the reader how to do something or why they should do something. It describes and defines the subject itself, but doesn't show readers how to perform tasks.
 
-These guides provide readers with certainty. 
+Because they are structured around the subject they describe and are not learning-oriented, these guides are not read as a series of steps. Instead, they are *consulted*, providing readers with certainty and clarity.
 
-To extend my poptart analogy, the reference material could be a conversion guide, definitions of mincing vs dicing, sifting vs scooping,definitions of equipment needed.
+## General Example: Food
 
-Example
-I want to understand what I’m consuming — reference guide/article
+The reference material for poptarts (or any food) would be something I consult to clarify something as I'm following the recipe, such as a weight conversion guide, definition of sifting scooping, or descriptions of equipment used to make the poptarts.
+
+These reference guides would
+
+* clarify questions I have about work I'm trying to complete.
+* be concise and structured in a way that I could quickly consult them and then continue my work.
+
+### Immuta Documentation Examples
+
+In our documentation, a reference guide would be something like
+
+* API reference guide.
+* architecutre diagrams and integration descriptions.
+
+Like the food example, these guides enhance our readers' work, and they are information-oriented. 

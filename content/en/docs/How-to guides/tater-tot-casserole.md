@@ -33,3 +33,20 @@ description: >
 1. Bake for 45 minutes to 1 hour.
 
 *Recipe adapted from [AllRecipes](https://www.allrecipes.com/recipe/23912/tater-tot-casserole-i/).*
+
+## What's Next?
+
+As our knowledge expands, our purpose for reading (and interest in the subject) changes. 
+
+Now that you've seen the how-to guide for making this breakfast casserole, maybe you want to know the difference between dicing and mincing.
+
+Maybe you want to understand more about different varieties of cheeses.
+
+Or, potentially, maybe you want to know how to make banana bread instead.
+
+Each of these needs is met by a different mode of writing in the Diátaxis framework. Navigate to one of these sections to learn more.
+
+* [How-To Guides](/docs/how-to-guides/)
+* [Reference Guides](/docs/reference/)
+* [Tutorials](/docs/tutorials/)
+* [Explanatory Guides](/docs/explanatory/)

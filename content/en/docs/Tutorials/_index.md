@@ -9,28 +9,24 @@ description: >
 
 ![Tutorial Diagram](/tutorial.png 'Tutorial Diagram')
 
-Tutorial is a term that we use pretty loosely currently in our docs. In our documentation, our tutorials have step-by-step instructions for using a feature.
+Tutorial is a term that we use pretty loosely currently in our docs. Our tutorials have step-by-step instructions for using a feature, but this approach isn’t actually a tutorial, according to the Diátaxis framework. 
 
-This approach isn’t actually a tutorial, though, not the way we use them. A tutorial should lead the reader through to learn a specific skill. Unlike how-to guides, it is learning-oriented, not business- or work-oriented. The purpose of a tutorial is to build readers’ competence with the product — we should teach for transfer, so they can then take those skills they learned and apply them to their own challenges and use cases.
+A tutorial is a lesson. It leads the reader through a series of steps to acquire a specific skill, so it is learning-oriented -- unlike how-to guides, which are business- or work-oriented. The purpose of a tutorial is to build readers’ competence and confidence with the product. If a tutorial is written well, readers should be able to take the skills they honed and apply them to their own challenges and use cases.
 
-For example, before I can make home-made poptarts, there are basic competencies I need to have with pastry before I can begin.
+## General Example: A Recipe
 
-What does the recipe actually mean when it says to soften butter?
-How do I roll out dough?
-How do I use a food processor?
+If I want to make homemade poptarts to share with the office, but I've never actually baked anything before or learned how to use a food processor, jumping into the recipe would be a disaster. Before I can make poptarts, there are basic skills I need to have with pastry before I can begin.
 
-Splunk documentation actually uses learning objectives when they write their docs.
+For example, a tutorial that explains how to properly roll out dough would
+* provide step-by-step instructions that get me using the tools I need.
+* allow me to acquire a basic skill
+* build the confidence I need (after I've achieved) to follow the poptarts recipe (the how-to guide)
 
+### Immuta Documentation Examples
 
-What does it actually mean to soften butter?
-https://www.landolakes.com/expert-advice/how-to-soften-butter/
-https://www.foodnetwork.com/fn-dish/recipes/2019/11/how-to-soften-butter
-How do I roll out dough?
-​​https://www.youtube.com/watch?v=zxXYWQ_XMqw
-How do I use a food processor?
-https://www.americastestkitchen.com/kids/recipes/how-to-use-a-food-processor (explanatory)
+In our documentation, a tutorial could lead readers through something like
 
-How do I cut up cinnamon rolls without smashing them?
-- https://www.kingarthurbaking.com/blog/2018/11/21/simple-cinnamon-roll-trick
+* using the policy builder.
+* writing an effective ABAC policy.
 
-
+Like the recipe example, these tutorials help our readers acquire skills; they are learning-oriented.
