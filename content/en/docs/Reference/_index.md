@@ -8,9 +8,9 @@ description: >
 
 ![Reference Diagram](/reference.png 'Reference Diagram')
 
-Reference guides are technical descriptions of a product. Like how-to guides, they empower readers to get their work done, and, like explanatory guides, they are information-oriented. Instead of being written as step-by-step instructions, they're written as articles.
+Reference guides are technical descriptions of a product. Like how-to guides, they empower readers to get their work done, but they are information-oriented. Instead of being written as step-by-step instructions, they're written as articles.
 
-A reference guide only describes its subject in detail (concisely). It doesn't tell the reader how to do something or why they should do something. It describes and defines the subject itself, but doesn't show readers how to perform tasks.
+A reference guide only describes its subject in detail (concisely). It doesn't tell the reader how to do something or why they should do something. It describes and defines the subject itself, and doesn't show readers how to perform tasks.
 
 Because they are structured around the subject they describe and are not learning-oriented, these guides are not read as a series of steps. Instead, they are *consulted*, providing readers with certainty and clarity.
 
