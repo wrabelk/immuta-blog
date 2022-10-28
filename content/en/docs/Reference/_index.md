@@ -1,14 +1,33 @@
 ---
-title: "Reference"
-linkTitle: "Reference"
-weight: 9
+title: "Reference Guides"
+linkTitle: "Reference Guides"
+weight: 3
 description: >
-  Low level reference docs for your project.
+  What information does your reader need to understand to achieve their business goal?
 ---
 
-{{% pageinfo %}}
-This is a placeholder page that shows you how to use this template site.
-{{% /pageinfo %}}
+![Reference Diagram](/reference.png 'Reference Diagram')
 
-If your project has an API, configuration, or other reference - anything that users need to look up that’s at an even lower level than a single task - put (or link to it) here. You can serve and link to generated reference docs created using Doxygen,
-Javadoc, or other doc generation tools by putting them in your `static/` directory. Find out more in [Adding static content](https://docsy.dev/docs/adding-content/content/#adding-static-content). For OpenAPI reference, Docsy also provides a [Swagger UI layout and shortcode](https://www.docsy.dev/docs/adding-content/shortcodes/#swaggerui) that renders [Swagger UI](https://swagger.io/tools/swagger-ui/) using any OpenAPI YAML or JSON file as source.
+Reference guides are technical descriptions of a product. Like how-to guides, they empower readers to get their work done, but they are information-oriented. Instead of being written as step-by-step instructions, they're written as articles.
+
+A reference guide only describes its subject in detail. It doesn't tell the reader how to do something or why they should do something. It describes and defines the subject itself, and doesn't show readers how to perform tasks.
+
+Because they are structured around the subject they describe and are not learning-oriented, these guides are not read as a series of steps. Instead, they are *consulted*, providing readers with certainty and clarity.
+
+## General Example: Poptarts
+
+I would consult reference material for poptarts (or any recipe) to clarify something as I'm following the recipe, such as a weight conversion guide, definition of sifting, or descriptions of equipment I need to make the poptarts.
+
+These reference guides would
+
+* clarify questions I have about work I'm trying to complete.
+* be concise and structured in a way that I could quickly consult them and then continue my work.
+
+### Immuta Documentation Examples
+
+In our documentation, a reference guide would be something like
+
+* API reference guide.
+* architecture diagrams and integration descriptions.
+
+Like the poptart example, these guides enhance our readers' work, and they are information-oriented. 
